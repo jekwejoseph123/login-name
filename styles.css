@@ -1,0 +1,29 @@
+.wrapper{
+    background-color: lightseagreen;
+    height: 400px; 
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.wrapper .title{
+    background-color: rgb(5, 145, 138);
+    margin: 20px;
+    color: white;
+}
+.wrapper .textbox{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    width: 92%;
+    padding: 3px;
+}
+.wrapper .button{
+    width: 92%;
+    background-color: aqua;
+    margin-left: 20px;
+    color: rgb(121, 117, 117);
+    border: none;
+    height: 50px;
+}
